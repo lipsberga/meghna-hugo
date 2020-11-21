@@ -11,5 +11,5 @@ banner:
     the analysis of their application.
   button:
     enable: true
-    label: Explore Us
+    label: Explore More about DH
     link: "#services"
